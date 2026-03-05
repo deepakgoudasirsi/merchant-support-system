@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1772702862671-99722443",
+    "subject": "Test ticket",
+    "message": "Something broke",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "createdAt": "2026-03-05T09:27:42.671Z"
+  },
+  {
+    "id": "1772703655780-e3de27ee",
+    "subject": "Dashboard takes too long to load",
+    "message": "The merchant dashboard is taking 10–15 seconds to load transaction history.\nIssue mostly appears during peak hours.",
+    "priority": "MEDIUM",
+    "status": "NEW",
+    "createdAt": "2026-03-05T09:40:55.780Z"
+  }
+]

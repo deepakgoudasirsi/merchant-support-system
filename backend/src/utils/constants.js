@@ -1,0 +1,19 @@
+const PRIORITIES = {
+  LOW: "LOW",
+  MEDIUM: "MEDIUM",
+  HIGH: "HIGH",
+};
+
+const STATUSES = {
+  NEW: "NEW",
+  INVESTIGATING: "INVESTIGATING",
+  RESOLVED: "RESOLVED",
+};
+
+module.exports = {
+  PRIORITIES,
+  STATUSES,
+  PRIORITY_VALUES: Object.values(PRIORITIES),
+  STATUS_VALUES: Object.values(STATUSES),
+};
+
