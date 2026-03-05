@@ -12,7 +12,15 @@
     "subject": "Dashboard takes too long to load",
     "message": "The merchant dashboard is taking 10–15 seconds to load transaction history.\nIssue mostly appears during peak hours.",
     "priority": "MEDIUM",
-    "status": "NEW",
+    "status": "RESOLVED",
     "createdAt": "2026-03-05T09:40:55.780Z"
+  },
+  {
+    "id": "1772719672824-8fed7f9e",
+    "subject": "API returning 401 even with valid key",
+    "message": "Requests to /v1/payments are returning 401 unauthorized.\nWe verified the API key and headers.",
+    "priority": "HIGH",
+    "status": "NEW",
+    "createdAt": "2026-03-05T14:07:52.824Z"
   }
 ]
